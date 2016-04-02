@@ -1,0 +1,56 @@
+Request TimeStamp :2016-04-01 19:03:50
+---------------------- NEW CLIENT REQUEST (NON CACHE) -------------------------- 
+Request Type: GET
+Host Name: www.tutorialspoint.com
+Local Port number: 8080
+Host Address: ('127.0.0.1', 62716)
+Request from client at ('127.0.0.1', 62716) processed in 0.257000207901 Response DataSize: 12
+---------------------- REQUEST_ENDED -------------------------- 
+Request TimeStamp :2016-04-01 19:04:23
+---------------------- NEW CLIENT REQUEST (CACHE) -------------------------- 
+Request Type: GET
+Host Name: www.tutorialspoint.com
+Local Port number: 8080
+Host Address: ('127.0.0.1', 62726)
+Request from client at ('127.0.0.1', 62726) processed in 0.0839998722076 Response DataSize: 74054
+---------------------- REQUEST_ENDED -------------------------- 
+Request TimeStamp :2016-04-01 19:04:28
+---------------------- NEW CLIENT REQUEST (CACHE) -------------------------- 
+Request Type: GET
+Host Name: www.tutorialspoint.com
+Local Port number: 8080
+Host Address: ('127.0.0.1', 62727)
+Request from client at ('127.0.0.1', 62727) processed in 4.53800010681 Response DataSize: 74054
+---------------------- REQUEST_ENDED -------------------------- 
+Request TimeStamp :2016-04-01 19:04:53
+---------------------- NEW CLIENT REQUEST (NON CACHE) -------------------------- 
+Request Type: GET
+Host Name: www.amazon.com
+Local Port number: 8080
+Host Address: ('127.0.0.1', 62730)
+Request from client at ('127.0.0.1', 62730) processed in 1.5039999485 Response DataSize: 12
+---------------------- REQUEST_ENDED -------------------------- 
+Request TimeStamp :2016-04-01 19:05:15
+---------------------- NEW CLIENT REQUEST (CACHE) -------------------------- 
+Request Type: GET
+Host Name: www.amazon.com
+Local Port number: 8080
+Host Address: ('127.0.0.1', 62785)
+Request from client at ('127.0.0.1', 62785) processed in 9.15899991989 Response DataSize: 372214
+---------------------- REQUEST_ENDED -------------------------- 
+Request TimeStamp :2016-04-01 21:35:41
+---------------------- NEW CLIENT REQUEST (NON CACHE) -------------------------- 
+Request Type: GET
+Host Name: www.w3schools.com
+Local Port number: 8080
+Host Address: ('127.0.0.1', 64020)
+Request from client at ('127.0.0.1', 64020) processed in 8.80100011826 Response DataSize: 12
+---------------------- REQUEST_ENDED -------------------------- 
+Request TimeStamp :2016-04-01 21:36:11
+---------------------- NEW CLIENT REQUEST (CACHE) -------------------------- 
+Request Type: GET
+Host Name: www.w3schools.com
+Local Port number: 8080
+Host Address: ('127.0.0.1', 64045)
+Request from client at ('127.0.0.1', 64045) processed in 0.0720000267029 Response DataSize: 27257
+---------------------- REQUEST_ENDED -------------------------- 
